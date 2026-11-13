@@ -6,8 +6,8 @@
     --color-background: #f5f1e8;
     --color-text: #17252a;
     --color-white: #ffffff;
-    --heading-font: "Bebas Neue", sans-serif;
-    --body-font: "Open Sans", sans-serif;
+    --heading-font: "Times New Roman", "Georgia" serif;
+    --body-font: Arial, Helvetica, sans-serif;
 }
 
 h1,
